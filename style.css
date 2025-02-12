@@ -52,6 +52,7 @@
 .gallery {
     text-align: center;
     padding: 50px 20px;
+    padding-bottom: 50px;
 }
 
 .gallery-container {
